@@ -6,15 +6,11 @@ This directory contails the dotfiles for my system
 
 Ensure you have the following installed on your system
 
-### [Git](https://git-scm.com/downloads)
-
-### [Stow](https://www.gnu.org/software/stow/)
-
-### [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
-
-### [Kitty](https://sw.kovidgoyal.net/kitty/)
-
-### [Catppuccin colors for Vim](https://github.com/catppuccin/vim)
+1. [Git](https://git-scm.com/downloads)
+2. [Stow](https://www.gnu.org/software/stow/)
+3. [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+4. [Kitty](https://sw.kovidgoyal.net/kitty/)
+5. [Catppuccin colors for Vim](https://github.com/catppuccin/vim)
 
 ## Installation
 
