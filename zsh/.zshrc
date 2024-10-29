@@ -44,6 +44,9 @@ alias ll='ls -lah'
 alias grep='grep -n --color'
 alias weather='curl -s "http://wttr.in/Porto?pqF"'
 
+# ssh aliases
+alias ssh='TERM=xterm-256color ssh'
+
 # binds
 bindkey "\e[H" beginning-of-line
 bindkey "\e[F" end-of-line
